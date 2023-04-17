@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/thuvienpoi/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/thuvienpoi/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/thuvienpoi/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/thuvienpoi/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/thuvienpoi/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/thuvienpoi/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/thuvienpoi/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/AbsoluteLayout-RELEASE160.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien_QR/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/Volumes/MacHD_DATA/NEWDATA/HanLe/HK4/PRO1041_DuAn1/NHOM3-ASSIGNMENTFINAL_QLNHAHANG/QLNhaHang-G3/ThuVien/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
