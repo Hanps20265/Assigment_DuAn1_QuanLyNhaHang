@@ -4,8 +4,7 @@ import dao.NhanVienDAO;
 import java.awt.event.KeyEvent;
 import java.util.Properties;
 import java.util.Random;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+
 import javax.mail.Message;
 import javax.mail.PasswordAuthentication;
 import javax.mail.Session;
@@ -25,7 +24,7 @@ public class QuenMatKhau extends javax.swing.JFrame {
         this.setColor();
     }
     String a = "kietvtps20582@fpt.edu.vn";
-    String b = "Kietvo2003";
+    String b = "";
     Random rand = new Random();
     int ranNum = rand.nextInt(1000) + 1;
     String NewMK = String.valueOf(ranNum);

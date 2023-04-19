@@ -46,9 +46,7 @@ public class TestLogin {
 	@Test
 	public void testLogin() {
 		login.login(user, pass);
-		
 		String maNV = null;
-		
 		if(Auth.user!=null) {
 			maNV = Auth.user.getMaNV();
 		}
